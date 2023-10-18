@@ -11,7 +11,7 @@ _DISPLAY_LOGO_ :: Bool
 _DISPLAY_LOGO_ = True
 
 -- Q#03
-convertRowIndex :: [Char] -> [Int]
+convertRowIndex :: [Char]
 convertRowIndex = [':']
 
 -- Q#04
