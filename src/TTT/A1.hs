@@ -4,7 +4,7 @@ import Data.Char (toUpper)
 
 -- Q#01
 
-_SIZE_ = undefined
+_SIZE_ = 3
 
 -- Q#02
 
